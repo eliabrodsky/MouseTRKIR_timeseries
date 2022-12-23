@@ -1,0 +1,8 @@
+![img1](https://github.com/eliabrodsky/MouseTRKIR_timeseries/raw/main/figures/LDA_Healthy_Sick_trend_all.png?raw=true)
+![img2](https://github.com/eliabrodsky/MouseTRKIR_timeseries/blob/main/figures/LDA_Ordn_Healthy_Sick_trend_all.png?raw=true)
+![img3](https://github.com/eliabrodsky/MouseTRKIR_timeseries/blob/main/figures/LDA_Ordn_Uninfected_Sick_trend_all.png?raw=true)
+![img4](https://github.com/eliabrodsky/MouseTRKIR_timeseries/blob/main/figures/LDA_Uninfected_Sick_trend_all.png?raw=true)
+![img5](https://github.com/eliabrodsky/MouseTRKIR_timeseries/blob/main/figures/PCA_Healthy_Sick_trend_all.png?raw=true)
+![img6](https://github.com/eliabrodsky/MouseTRKIR_timeseries/blob/main/figures/PCA_Uninfected_Sick_trend_all.png?raw=true)
+![img7](https://github.com/eliabrodsky/MouseTRKIR_timeseries/blob/main/figures/PCA_loadings_Uninfected_Sick_trend_all.png?raw=true)
+![img8](https://github.com/eliabrodsky/MouseTRKIR_timeseries/blob/main/figures/RF_ROC_healthy_sick.png?raw=true)
